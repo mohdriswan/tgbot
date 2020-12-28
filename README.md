@@ -1,26 +1,7 @@
 # tgbot
-A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
-simple to use.
-
-Can be found on telegram as [KING](https://t.me/moviieheistmlm).
-
-Kochu and I are moderating a [official group](https://t.me/moviieheistmlmgroup), where you can ask for help setting up your
-bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
-I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
-
-Join the [official channel](https://t.me/moviieheistmlm) if you just want to stay in the loop about new features or
-announcements.
-
-Alternatively, [find me on telegram](https://t.me/MOVIE_HEIST_admin)! (Keep all support questions in the support chat, where more people can help you.)
-
-To deploy me on heroku, use below button:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohdriswan/tgbot)
-
-There is also a [tutorial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
-
+നമസ്കാരം. ഞാൻ ഒരു അടിപൊളി ഗ്രൂപ്പ്‌ മാനേജിങ് ബോട്ട് ആണ്. 
+പക്ഷെ എന്നെ MOVIE HEIST ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റു 😂
 ## Starting the bot.
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
